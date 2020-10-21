@@ -46,11 +46,13 @@ do
     if [ "$this_gpu" = "8" ];
     then
       gpus="38,39"
+      gpus="38,39,46,47,48,49"
     fi
     
     if [ "$this_gpu" = "9" ];
     then
       gpus="40,41"
+      gpus="40,41,42,43,44,45"
     fi
     
     
