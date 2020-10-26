@@ -1,4 +1,4 @@
-# OBSELETE
+# OBSOLETE
 Please see repository https://github.com/gavinlive/gpu-monitor
 
 # IGNORE
