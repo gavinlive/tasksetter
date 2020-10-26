@@ -1,3 +1,8 @@
+# OBSELETE
+Please see repository https://github.com/gavinlive/gpu-monitor
+
+# IGNORE
+
 # tasksetter
 Taskset GPU jobs
 
